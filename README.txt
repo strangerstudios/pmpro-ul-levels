@@ -5,6 +5,8 @@ Requires at least: 3.0
 Tested up to: 3.5.1
 Stable tag: .1
 
+IMPORTANT: This plugin has been deprecated. Please use the Advanced Levels Page Shortcode Add On: https://www.paidmembershipspro.com/add-ons/pmpro-advanced-levels-shortcode/.
+
 The default PMPro Membership Levels page displays in a table layout. This plugin loops through your levels as LI items and puts the level information in a UL as well. If you are using a the PMPro Level Cost Text add on, it will use that text for the generated price sentence. Alternately, it will just use the automatically generated level cost text PMPro provides. This plugin is particularly effective if you are using the Foundation by ZURB.
 
 == Description ==
